@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  desired_categories: MyString
+  max_price: 1
+  seller: one
+
+two:
+  name: MyString
+  desired_categories: MyString
+  max_price: 1
+  seller: two
